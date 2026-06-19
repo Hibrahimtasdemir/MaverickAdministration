@@ -27,7 +27,7 @@
         <testng.version>7.12.0</testng.version>
         <poi.version>5.5.1</poi.version>
         <jackson.version>2.21.1</jackson.version>
-        <log4j.version>2.25.3</log4j.version>
+        <log4j.version>2.25.4</log4j.version>
         <javafaker.version>1.0.2</javafaker.version>
         <extentreports.version>5.1.2</extentreports.version>
         <ashot.version>1.5.4</ashot.version>
